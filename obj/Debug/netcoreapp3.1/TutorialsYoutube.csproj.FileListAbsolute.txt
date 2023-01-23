@@ -1,0 +1,17 @@
+C:\Users\Cristofer\source\repos\TutorialsYoutube\obj\Debug\netcoreapp3.1\TutorialsYoutube.csproj.AssemblyReference.cache
+C:\Users\Cristofer\source\repos\TutorialsYoutube\obj\Debug\netcoreapp3.1\TutorialsYoutube.Form1.resources
+C:\Users\Cristofer\source\repos\TutorialsYoutube\obj\Debug\netcoreapp3.1\TutorialsYoutube.Properties.Resources.resources
+C:\Users\Cristofer\source\repos\TutorialsYoutube\obj\Debug\netcoreapp3.1\TutorialsYoutube.csproj.GenerateResource.cache
+C:\Users\Cristofer\source\repos\TutorialsYoutube\obj\Debug\netcoreapp3.1\TutorialsYoutube.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cristofer\source\repos\TutorialsYoutube\obj\Debug\netcoreapp3.1\TutorialsYoutube.AssemblyInfoInputs.cache
+C:\Users\Cristofer\source\repos\TutorialsYoutube\obj\Debug\netcoreapp3.1\TutorialsYoutube.AssemblyInfo.cs
+C:\Users\Cristofer\source\repos\TutorialsYoutube\obj\Debug\netcoreapp3.1\TutorialsYoutube.csproj.CoreCompileInputs.cache
+C:\Users\Cristofer\source\repos\TutorialsYoutube\obj\Debug\netcoreapp3.1\TutorialsYoutube.genruntimeconfig.cache
+C:\Users\Cristofer\source\repos\TutorialsYoutube\bin\Debug\netcoreapp3.1\Fecha Y Hora en C#.exe
+C:\Users\Cristofer\source\repos\TutorialsYoutube\bin\Debug\netcoreapp3.1\Fecha Y Hora en C#.deps.json
+C:\Users\Cristofer\source\repos\TutorialsYoutube\bin\Debug\netcoreapp3.1\Fecha Y Hora en C#.runtimeconfig.json
+C:\Users\Cristofer\source\repos\TutorialsYoutube\bin\Debug\netcoreapp3.1\Fecha Y Hora en C#.runtimeconfig.dev.json
+C:\Users\Cristofer\source\repos\TutorialsYoutube\bin\Debug\netcoreapp3.1\Fecha Y Hora en C#.dll
+C:\Users\Cristofer\source\repos\TutorialsYoutube\bin\Debug\netcoreapp3.1\Fecha Y Hora en C#.pdb
+C:\Users\Cristofer\source\repos\TutorialsYoutube\obj\Debug\netcoreapp3.1\Fecha Y Hora en C#.dll
+C:\Users\Cristofer\source\repos\TutorialsYoutube\obj\Debug\netcoreapp3.1\Fecha Y Hora en C#.pdb
